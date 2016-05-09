@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[grilledcheese]]></title>
         <description><![CDATA[grilledcheese]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grilledcheese/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 21:56:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 23:58:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grilledcheese/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Phoneless in 2016]]></title>
+            <description><![CDATA[<p>Lost my iPhone on Thursday night. No idea where it went. I have find my iPhone turned on, but the battery died. All they have to do is plug it into a charger, and it will notify my of it's location automatically, but no one has done that yet. Problem is, I don't want to activate a new SIM card until that happens, and in the mean time, I'm phoneless. Very surreal feeling.</p>]]></description>
+            <link>https://thegrid.ai/grilledcheese/phoneless-in-2016/index.html</link>
+            <guid isPermaLink="false">dab80d74-2595-441d-a31e-a0a9b187d29b</guid>
+            <pubDate>Mon, 09 May 2016 23:58:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://www.vancouverisawesome.com/2015/02/17/8-of-vancouvers-best-grilled-cheese-sandwiches/</p>]]></description>
-            <link>undefinedhttpwwwvancouverisawesomecom201502178-of-vancouvers/index.html</link>
+            <link>https://thegrid.ai/grilledcheese/httpwwwvancouverisawesomecom201502178-of-vancouvers/index.html</link>
             <guid isPermaLink="false">7827dd8c-c43d-4a17-82d6-c645a9d7fc72</guid>
             <pubDate>Sat, 02 Apr 2016 21:56:32 GMT</pubDate>
         </item>
